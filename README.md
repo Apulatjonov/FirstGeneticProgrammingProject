@@ -1,4 +1,4 @@
-# FirstSimpleGeneticProjectDemo
+# First Simple Genetic Programming Project
 
 This program uses genetic algorithm to find the most fittest sequence of characters to the TARGET string among the characters in the string GENES. This is based on the following foundational criteria of the GA analogy:
 - Individual in population compete for resources and mate
